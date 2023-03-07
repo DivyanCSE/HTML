@@ -1,0 +1,21 @@
+INTRODUCTION OF HOW THE WEB BROWSER DISPLAYS AS A WEB PAGE:::::::::::
+
+**web browser is a client browser because it is a destop web delvoper, mobile web delevoper,applicatio with the embedded browser,applicance.
+(URL) full form is uniform resources locator
+example:::::::
+scheme://domain:port/path?query_string#fragment_id
+
+*scheme-> it is  protocol
+*domain-> server domain name
+*query string-it is a optional
+*fragment id-it is also a optional
+
+**url first get the url link and then url will enter into the domain name ,and domain name enter into path,and then path enter into the resources and finally url doucument it is change as clear visible to the user
+the normal url  it will be converted into the html,and then the html will be converted into the one part of media content,another part is stylesheet apperance and the last part will be the javascript 
+and then overall document will be converted into the the internal data structures...
+and then the (internal data structures will taken into the into render it means it is visible page),and also (internal data structures is converted into the document object model)
+
+
+And finally [it all comes together as a smooth,fast,interactiveuser experience]
+
+these are said to be how web browser will display as a web page.........
