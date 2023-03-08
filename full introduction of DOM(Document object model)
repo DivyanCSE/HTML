@@ -1,0 +1,80 @@
+INTRODUCTION OF DOM(Document Object Model):::
+where "Document" it is a file like "html and xml",
+And "Object" it is like to be a "tags elements",
+"Model" it is a "layout structure"....
+
+Example for creating a normal files::::::::
+
+<books>
+  <book>
+     <author>Carson</author>
+     <price format="dollar">31.95</price>
+     <pubdate>05/01/2001</pubdate>
+  </book>
+  <pubinfo>
+     <publisher>MSPress</publisher>
+     <state>WA</state>
+  </publisher>
+</books>
+
+EXPLAINATION FOR THE ABOVE NORMAL FILES::
+"<books>" is a root elements and [ "<book>" and "<pubinfo>"] this two are child elements for the root elements . 
+"</book>" it is end of the particular files,"</publisher>" it is also a end of the particular files.
+And finaally "</books> it is end of the overall files documents
+
+DOM view(hide,refresh):::
+
+
+HTML
+
+    HEAD
+    BODY
+        BOOKS
+            #text:
+            BOOK
+                #text:
+                AUTHOR
+                    #text: Carson
+                #text:
+                PRICE format="dollar"
+                    #text: 31.95
+                #text:
+                PUBDATE
+                    #text: 05/01/2001
+                #text: 
+            #text:
+            PUBINFO
+                #text:
+                PUBLISHER
+                    #text: MSPress
+                #text:
+                STATE
+                    #text: WA
+                #text: 
+        #text: 
+        
+        
+************    DOM :
+
+** It is represent the content of xml or html as a tree
+**It is can be easilyto read ,acssses,update the content of the document
+** It is an Programming interface(API) for the (html/xml) document
+**it represents the page as a tree structure,so that program can read,access,and change the document structure,sytle content
+** It is a object oriented representation of the webpage,which can be modified with in scripting langage like javascript
+**Every web browser uses some document object model to make web pages asscessible of the javascript
+
+
+
+I learn some example websites like :
+<<<<<<<<<<<<<<<        1]google.com
+                                 2]opensource-demo.orangehrmlive.com                    >>>>>>>>>>>>>>>>
+from the two websites i learn simple concept of the small changes of the document structures
+** from the websites of    [opensource-demo.orangehrmlive.com] i changes the login word into start ,this only today i learn it .
+
+these are said to be a (DOCUMENT OBJECT MODEL)
+
+
+
+
+
+
