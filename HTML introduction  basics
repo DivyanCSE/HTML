@@ -1,0 +1,167 @@
+HTML(it is a hyper text markup langages)
+* it is not a programming langages
+*Markup langages for websites/document is to be a no logic ,no program,it is just a skeleton html langages..
+------->>> Promgramming langages is said to be a write a logic in (c,c++,java) it will be in program,,,but Markup langages is said to be a one type of design a website..
+* if any website is created it will be converted into the html skeleton langages..
+Html, it is buliding block because it is a used in every website around a world..
+
+
+LET'S CREATE::
+1)  [<>]  ,it is said to be a open tabs open a files.
+2)  [</> ,it is said to be a  closing a particular files /particular tabs.
+
+PAGE STRUCTURE::
+
+[<!DOCTYPE html> ]--->>> it will declare a html version of 5..
+
+
+USES:
+1)using like text editor like be a SUBLIME TEXT.
+2) it is usefull to study in google chorme .. it is ery usefull for us..
+
+
+STRUCTURE:::::::
+
+
+<!DOCTYPE html>
+<html>
+<head>
+     <title></title>
+</head>
+<body>
+</body>
+</html>
+
+it is a basics structure to create a html ...
+
+BASICS EXAMPLE IN HTML::::
+1)
+<!DOCTYPE html>
+<html>
+<head>
+     <title></title>
+</head>
+<body>
+
+</body>
+</html>
+
+output will doesn't display anything. because in the title no file name is displayed ..
+........................................................................................................
+-------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
+
+2)
+<!DOCTYPE html>
+<html>
+<head>
+     <title>new</title>
+     <h1>NEWS READER</h1>
+</head>
+<body>
+	<h1>NEWS READER</h1>
+	<h2>NEWS READER</h2>
+	<h3>NEWS READER</h3>
+	<h4>NEWS READER</h4>
+	<h5>NEWS READER</h5>
+	<h6>NEWS READER</h6>
+<!-- .. this is command line .. -->
+
+</body>
+</html>
+ 
+
+output became :
+NEWS READER
+NEWS READER
+NEWS READER
+NEWS READER
+NEWS READER
+NEWS READER
+
+
+
+
+................................................................................................................
+----------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------
+3)
+
+<!DOCTYPE html>
+<html>
+<head>
+     <title>new</title>
+     <h1>NEWS READER</h1>
+</head>
+<body>
+	<h1>NEWS READER</h1>
+	<h2>NEWS READER</h2>
+	<!-- tis is my heading 2,you can have any name for this -->
+	<h3>NEWS PAPER</h3>
+	<h4>NEWS READER</h4>
+	<h5>NEWS READER</h5>
+	<h6>NEWS READER</h6>
+<!-- .. this is command line .. -->
+
+</body>
+</html>
+
+
+output:::
+
+<!-- tis is my heading 2,you can have any name for this -->
+ this comment line  will change the output like the header files want it is changes  that like it is changes..
+ output became like :
+NEWS READER
+NEWS READER
+NEWS PAPER
+NEWS READER
+NEWS READER
+NEWS READER
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+..........................................................................................................................................................
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+4)
+<!DOCTYPE html>
+<html>
+<head>
+     <title>fb.com</title>
+     <h1>NEWS READER</h1>
+</head>
+<body>
+	<h1>NEWS READER</h1>
+	<h2>NEWS READER</h2>
+	<!-- tis is my heading 2,you can have any name for this -->
+	<h3>NEWS PAPER</h3>
+	<h4>NEWS READER</h4>
+	<h5>NEWS READER</h5>
+	<h6>NEWS READER</h6>
+<!-- .. this is command line .. -->
+
+<!-- paragraph -->
+<p>
+	his is a simple paragraph that is meant to be nice and easy to type which is why there will be mommas no periods or any capital letters so i guess this means that it cannot really be considered a paragraph but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult.
+</p>
+
+</body>
+</html>
+
+
+
+OUTPUT will become ::::
+NEWS READER
+NEWS READER
+NEWS READER
+NEWS PAPER
+NEWS READER
+NEWS READER
+NEWS READER
+
+his is a simple paragraph that is meant to be nice and easy to type which is why there will be mommas no periods or any capital letters so i guess this means that it cannot really be considered a paragraph but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult.  
+
+these are the basics of  html structure ang how to identifed the version of html,page structre.
