@@ -1,0 +1,199 @@
+1)
+
+<!DOCTYPE html>
+<html>
+<head>
+     <title>fb.com</title>
+     <h1>NEWS READER</h1>
+</head>
+<body>
+	<h1>NEWS READER</h1>
+	<h2>NEWS READER</h2>
+	<!-- tis is my heading 2,you can have any name for this -->
+	<h3>NEWS PAPER</h3>
+	<h4>NEWS READER</h4>
+	<h5>NEWS READER</h5>
+	<h6>NEWS READER</h6>
+<!-- .. this is command line .. -->
+
+<!-- paragraph -->
+<p>
+	his is a simple paragraph that is meant to be nice and easy to type which is why there will be mommas no.</p>
+
+<p>
+	Periods or any capital letters so i guess this means that it cannot really be considered a paragraph but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult.
+<br>
+A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence lon.
+</p>
+
+</body>
+</html>
+
+
+output::
+
+NEWS READER
+NEWS READER
+NEWS READER
+NEWS PAPER
+NEWS READER
+NEWS READER
+NEWS READER
+
+his is a simple paragraph that is meant to be nice and easy to type which is why there will be mommas no.
+
+Periods or any capital letters so i guess this means that it cannot really be considered a paragraph but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult.
+A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence lon. 
+
+
+<br> it is used to give some spaces and the same paragragh is entered into the next line.
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+...................................................................................................................................................................................
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2)
+
+<!DOCTYPE html>
+<html>
+<head>
+     <title>fb.com</title>
+     <h1>NEWS READER</h1>
+</head>
+<body>
+	<h1>NEWS READER</h1>
+	<h2>NEWS READER</h2>
+	<!-- tis is my heading 2,you can have any name for this -->
+	<h3>NEWS PAPER</h3>
+	<h4>NEWS READER</h4>
+	<h5>NEWS READER</h5>
+	<h6>NEWS READER</h6>
+<!-- .. this is command line .. -->
+
+<!-- paragraph -->
+<p>
+	his is a simple paragraph that is meant to be nice and easy to type which is why there will be mommas no.</p>
+
+<p>
+	Periods or any capital letters so i guess this means that it cannot really be considered a paragraph but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult.
+<br>
+A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. 
+<br><hr>
+For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence lon.
+</p>
+
+</body>
+</html>
+
+output::
+
+NEWS READER
+NEWS READER
+NEWS READER
+NEWS PAPER
+NEWS READER
+NEWS READER
+NEWS READER
+
+his is a simple paragraph that is meant to be nice and easy to type which is why there will be mommas no.
+
+Periods or any capital letters so i guess this means that it cannot really be considered a paragraph but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult.
+A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph.
+____________________________________________________________________________________________________________________________________________________________
+
+For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence lon. 
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+......................................................................................................................................................................
+3)
+
+
+<!DOCTYPE html>
+<html>
+<head>
+     <title>fb.com</title>
+     <h1>NEWS READER</h1>
+</head>
+<body>
+	<h1>NEWS READER</h1>
+	<hr>
+	<h2>NEWS READER</h2>
+	<!-- tis is my heading 2,you can have any name for this -->
+	<h3>NEWS PAPER</h3>
+	<h4>NEWS READER</h4>
+	<hr>
+	<h5>NEWS READER</h5>
+	<h6>NEWS READER</h6>
+<!-- .. this is command line .. -->
+
+<!-- paragraph -->
+<p>
+	his is a simple paragraph that is meant to be nice and easy to type which is why there will be mommas no.</p>
+
+<p>
+	Periods or any capital letters so i guess this means that it cannot really be considered a paragraph but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult.
+<br>
+A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. 
+<br><hr>
+For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence lon.
+</p>
+
+</body>
+</html>
+
+output:
+
+NEWS READER
+_________________________________________________________________________
+NEWS READER
+NEWS READER
+NEWS PAPER
+____________________________________________________________________________
+NEWS READER
+NEWS READER
+NEWS READER
+
+his is a simple paragraph that is meant to be nice and easy to type which is why there will be mommas no.
+
+Periods or any capital letters so i guess this means that it cannot really be considered a paragraph but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult.
+A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph.
+______________________________________________________________________________________________________________________________
+For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence lon. 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+.........................................................................................................................................
+
+some example tags:
+<br> -> in the same paragraph it will give some spaces how much we want.
+<hr> it will displays a long line .
+
+for example:
+
+<h1>NEWS READER</h1>
+<hr>
+<h2>NEWS READER</h2>
+
+OUTPUT WILL BECAME AS:
+
+NEWS READER
+__________________________________________________________________________________________________________
+NEWS READER
+
+
+ from the current files we will take the source view files.
+ we take current files, and we press (ctrl+u) it will show the (view source file)
+ 
+ *****    SOME TAGS ARE:
+  1)<br></br>
+  2)<hr>
+  3) [      INLINE :
+  <SPAN>,<IMG>,<a>      ]
+  
+  4)block level elements:
+  
+  [       <div>,<h1> to <h6>,<form>         ]     .......
+ 
+
