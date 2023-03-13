@@ -1,0 +1,176 @@
+<u>  - it is useful for the underline the given places.
+<i> - it will be return in different style
+<b> - it will be return in bold letters but not in captital letters.
+
+_____________________________________________________________________
+<a href="ref link"> videos</a>    - it will refer the given link.
+href it will be useful to directly enter into the the given reference link.
+___________________________________________________________________________
+<a href="ref link" target="blank"> videos</a>   - it is useful to open in a newtab.
+it doesn't disturb the current tab it will be take the user to save a time management.
+target="blank" - it is one type of keywords.
+__________________________________________________________________________________
+
+example code for above tags :::::::::
+
+
+13.03.23
+1)
+
+<!DOCTYPE html>
+<html>
+<head>
+     <title>fb.com</title>
+     <h1>NEWS READER</h1>
+</head>
+<body>
+	<h1>NEWS READER</h1>
+	<hr>
+	<h2>NEWS READER</h2>
+	<!-- tis is my heading 2,you can have any name for this -->
+	<h3>NEWS PAPER</h3>
+	<h4>NEWS READER</h4>
+	<hr>
+	<h5>NEWS READER</h5>
+	<h6>NEWS READER</h6>
+<!-- .. this is command line .. -->
+
+<!-- paragraph -->
+<p>
+	<b>his is a simple paragraph that is meant to be nice and easy to type </b>,which is why there will be mommas no.</p>
+
+<p>
+	Periods or any capital letters so i guess this means that it cannot really be considered a paragraph but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult.
+<br>
+A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. 
+<br><hr>
+For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence lon.
+</p>
+
+</body>
+</html>
+
+
+output:::
+
+NEWS READER
+NEWS READER
+NEWS READER
+NEWS PAPER
+NEWS READER
+NEWS READER
+NEWS READER
+
+BOLD LETTER STARTS(his is a simple paragraph that is meant to be nice and easy to type ) BOLD LETTER ENDS,which is why there will be mommas no.
+
+Periods or any capital letters so i guess this means that it cannot really be considered a paragraph but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult.
+A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph.
+For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence lon. 
+
+
+
+------------------------------------------------------------------------------------------------------------
+................................................................................................................
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+     <title>fb.com</title>
+     <h1>NEWS READER</h1>
+</head>
+<body>
+	<h1>NEWS READER</h1>
+	<hr>
+	<h2>NEWS READER</h2>
+	<!-- tis is my heading 2,you can have any name for this -->
+	<h3>NEWS PAPER</h3>
+	<h4>NEWS READER</h4>
+	<hr>
+	<h5>NEWS READER</h5>
+	<h6>NEWS READER</h6>
+<!-- .. this is command line .. -->
+
+<!-- paragraph -->
+<p>
+	<b>his is a simple paragraph that is meant to be nice and easy to type </b>,which is why there will be mommas no.</p>
+
+<p>
+	<u>Periods or any capital letters </u>,<i>so i guess this means that it cannot really be considered a paragraph </i>,but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult.
+<br>
+A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. 
+<br><hr>
+For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence lon.
+</p>
+
+</body>
+</html>
+
+
+output:::
+
+NEWS READER
+NEWS READER
+NEWS READER
+NEWS PAPER
+NEWS READER
+NEWS READER
+NEWS READER
+
+his is a simple paragraph that is meant to be nice and easy to type ,which is why there will be mommas no.
+
+(Periods or any capital letters) "IT WILL UNDERLINE START TO END" ,(so i guess this means that it cannot really be considered a paragraph) "IT WILL WRITE IN DIFFERENT FONT" ,but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult.
+A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph.
+For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence lon. 
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+..................................................................................................................................
+
+
+<!DOCTYPE html>
+<html>
+<head>
+     <title>fb.com</title>
+     <h1>NEWS READER</h1>
+</head>
+<body>
+	<h1>NEWS READER</h1>
+	<hr>
+	<h2>NEWS READER</h2>
+	<!-- tis is my heading 2,you can have any name for this -->
+	<h3>NEWS PAPER</h3>
+	<h4>NEWS READER</h4>
+	<hr>
+	<h5>NEWS READER</h5>
+	<h6>NEWS READER</h6>
+<!-- .. this is command line .. -->
+
+<!-- paragraph -->
+<p>
+	<b>his is a simple paragraph that is meant to be nice and easy to type </b>,which is why there will be mommas no.</p>
+
+<p>
+	<u>Periods or any capital letters </u>,<i>so i guess this means that it cannot really be considered a paragraph </i>,but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult,<a href=" https://www.youtube.com/watch?v=OQ2448utWIE&t=1924s" target="blank">videos is enjoyable</a>.
+<br>
+A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. 
+<br><hr>
+For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence lon.
+</p>
+
+</body>
+</html>
+
+
+/ target ="blank"
+ it is useful for open in newtab . if we not use means it will be open in the same tab it will disturb us .
+href="ref link"   it will refer the link.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+these are the example for above tags........
