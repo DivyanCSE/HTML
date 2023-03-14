@@ -1,0 +1,541 @@
+command line will became as "<!-- list --> "
+it has the two types of list:
+      *unordered list
+      *ordered list
+      
+"<!-- list --> "    - it is useful to show the data properly.
+<ul> - unordered list 
+<ol> - ordered list
+<tr> - it is fill as the "row wise"
+<th> - table header
+<td> - table data
+
+
+ul - it will gives the output like randomly prints
+ol - it will gives the output as orderly prints
+
+EXAMPLE::::::::::::::
+
+
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"></head><body>"
+
+
+     <title>head.com</title>
+     <h1>NEWS READER</h1>
+
+
+	<h1>NEWS READER</h1>
+	<hr>
+	<h2>NEWS READER</h2>
+	<!-- tis is my heading 2,you can have any name for this -->
+	<h3>NEWS PAPER</h3>
+	<h4>NEWS READER</h4>
+	<hr>
+	<h5>NEWS READER</h5>
+	<h6>NEWS READER</h6>
+<!-- .. this is command line .. -->
+
+<!-- paragraph -->
+<p>
+	<b>his is a simple paragraph that is meant to be nice and easy to type </b>,which is why there will be mommas no.</p>
+
+<p>
+	<u>Periods or any capital letters </u>,<i>so i guess this means that it cannot really be considered a paragraph </i>,but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult,<a href="https://www.youtube.com/"target="blank"  >videos is enjoyable</a>.
+<br>
+A paragraph is defined as “a group of sentences or a single sentence 
+that forms a unit” (Lunsford and Connors 116). Length and appearance do 
+not determine whether a section in a paper is a paragraph. 
+<br></p><hr>
+For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence lon.
+<p></p>
+
+<!-- List -->
+<ul>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+
+</ul>
+
+</body> 
+</html>
+
+output::::
+
+
+
+
+NEWS READER
+NEWS READER
+NEWS READER
+NEWS PAPER
+NEWS READER
+NEWS READER
+NEWS READER
+
+his is a simple paragraph that is meant to be nice and easy to type ,which is why there will be mommas no.
+
+Periods or any capital letters ,so i guess this means that it cannot really be considered a paragraph ,but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult,videos is enjoyable.
+A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph.
+For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence lon.
+
+    .tamil hacks
+    .tamil hacks
+    .tamil hacks
+    .tamil hacks
+    .tamil hacks
+    .tamil hacks
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"></head><body>"
+
+
+     <title>head.com</title>
+     <h1>NEWS READER</h1>
+
+
+	<h1>NEWS READER</h1>
+	<hr>
+	<h2>NEWS READER</h2>
+	<!-- tis is my heading 2,you can have any name for this -->
+	<h3>NEWS PAPER</h3>
+	<h4>NEWS READER</h4>
+	<hr>
+	<h5>NEWS READER</h5>
+	<h6>NEWS READER</h6>
+<!-- .. this is command line .. -->
+
+<!-- paragraph -->
+<p>
+	<b>his is a simple paragraph that is meant to be nice and easy to type </b>,which is why there will be mommas no.</p>
+
+<p>
+	<u>Periods or any capital letters </u>,<i>so i guess this means that it cannot really be considered a paragraph </i>,but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult,<a href="https://www.youtube.com/"target="blank"  >videos is enjoyable</a>.
+<br>
+A paragraph is defined as “a group of sentences or a single sentence 
+that forms a unit” (Lunsford and Connors 116). Length and appearance do 
+not determine whether a section in a paper is a paragraph. 
+<br></p><hr>
+For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence lon.
+<p></p>
+
+<!-- List -->
+<ul>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+
+</ul>
+
+<ol>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+
+</ol>
+
+
+
+</body> 
+</html>
+
+
+output:::
+
+NEWS READER
+NEWS READER
+NEWS PAPER
+NEWS READER
+NEWS READER
+NEWS READER
+
+his is a simple paragraph that is meant to be nice and easy to type ,which is why there will be mommas no.
+
+Periods or any capital letters ,so i guess this means that it cannot really be considered a paragraph ,but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult,videos is enjoyable.
+A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph.
+For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence lon.
+
+    .tamil hacks
+    .tamil hacks
+    .tamil hacks
+    .tamil hacks
+    .tamil hacks
+    .tamil hacks
+
+    1.tamil hacks
+    2.tamil hacks
+    3.tamil hacks
+    4.tamil hacks
+    5.tamil hacks
+    6.tamil hacks
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"></head><body>"
+
+
+     <title>head.com</title>
+     <h1>NEWS READER</h1>
+
+
+	<h1>NEWS READER</h1>
+	<hr>
+	<h2>NEWS READER</h2>
+	<!-- tis is my heading 2,you can have any name for this -->
+	<h3>NEWS PAPER</h3>
+	<h4>NEWS READER</h4>
+	<hr>
+	<h5>NEWS READER</h5>
+	<h6>NEWS READER</h6>
+<!-- .. this is command line .. -->
+
+<!-- paragraph -->
+<p>
+	<b>his is a simple paragraph that is meant to be nice and easy to type </b>,which is why there will be mommas no.</p>
+
+<p>
+	<u>Periods or any capital letters </u>,<i>so i guess this means that it cannot really be considered a paragraph </i>,but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult,<a href="https://www.youtube.com/"target="blank"  >videos is enjoyable</a>.
+<br>
+A paragraph is defined as “a group of sentences or a single sentence 
+that forms a unit” (Lunsford and Connors 116). Length and appearance do 
+not determine whether a section in a paper is a paragraph. 
+<br></p><hr>
+For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence lon.
+<p></p>
+
+<!-- List -->
+<ul>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+
+</ul>
+
+<ol>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+
+</ol>
+
+<!-- tables -->
+
+<table>
+	<head>
+		<tr>
+			<th>name</th>
+			<th>email</th>
+			<th>number</th>
+		</tr>
+
+	</head>
+	<body></body>
+</table>
+
+
+</body> 
+</html>
+
+output::
+
+
+NEWS READER
+NEWS READER
+NEWS PAPER
+NEWS READER
+NEWS READER
+NEWS READER
+
+his is a simple paragraph that is meant to be nice and easy to type ,which is why there will be mommas no.
+
+Periods or any capital letters ,so i guess this means that it cannot really be considered a paragraph ,but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult,videos is enjoyable.
+A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph.
+For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence lon.
+
+    .tamil hacks
+    .tamil hacks
+    .tamil hacks
+    .tamil hacks
+    .tamil hacks
+    .tamil hacks
+
+    1.tamil hacks
+    2.tamil hacks
+    3.tamil hacks
+    4.tamil hacks
+    5.tamil hacks
+    6.tamil hacks
+
+name email number
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"></head><body>"
+
+
+     <title>head.com</title>
+     <h1>NEWS READER</h1>
+
+
+	<h1>NEWS READER</h1>
+	<hr>
+	<h2>NEWS READER</h2>
+	<!-- tis is my heading 2,you can have any name for this -->
+	<h3>NEWS PAPER</h3>
+	<h4>NEWS READER</h4>
+	<hr>
+	<h5>NEWS READER</h5>
+	<h6>NEWS READER</h6>
+<!-- .. this is command line .. -->
+
+<!-- paragraph -->
+<p>
+	<b>his is a simple paragraph that is meant to be nice and easy to type </b>,which is why there will be mommas no.</p>
+
+<p>
+	<u>Periods or any capital letters </u>,<i>so i guess this means that it cannot really be considered a paragraph </i>,but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult,<a href="https://www.youtube.com/"target="blank"  >videos is enjoyable</a>.
+<br>
+A paragraph is defined as “a group of sentences or a single sentence 
+that forms a unit” (Lunsford and Connors 116). Length and appearance do 
+not determine whether a section in a paper is a paragraph. 
+<br></p><hr>
+For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence lon.
+<p></p>
+
+<!-- List -->
+<ul>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+
+</ul>
+
+<ol>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+
+</ol>
+
+<!-- tables -->
+
+<table>
+	<head>
+		<tr>
+			<th>name</th>
+			<th>email</th>
+			<th>number</th>
+		</tr>
+
+	</head>
+	<body>
+		<tr>
+			<td>raja</td>
+			<td>raja@gmail.com</td>
+			<td>1234567890</td>
+	</body>
+</table>
+
+
+</body> 
+</html>
+
+
+output:::::::::::::
+
+
+NEWS READER
+NEWS PAPER
+NEWS READER
+NEWS READER
+NEWS READER
+
+his is a simple paragraph that is meant to be nice and easy to type ,which is why there will be mommas no.
+
+Periods or any capital letters ,so i guess this means that it cannot really be considered a paragraph ,but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult,videos is enjoyable.
+A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph.
+For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence lon.
+
+    .tamil hacks
+    .tamil hacks
+    .tamil hacks
+    .tamil hacks
+    .tamil hacks
+    .tamil hacks
+
+    1.tamil hacks
+    2.tamil hacks
+    3.tamil hacks
+    4.tamil hacks
+    5.tamil hacks
+    6.tamil hacks
+
+name 	email 	number
+raja 	raja@gmail.com 	1234567890
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"></head><body>"
+
+
+     <title>head.com</title>
+     <h1>NEWS READER</h1>
+
+
+	<h1>NEWS READER</h1>
+	<hr>
+	<h2>NEWS READER</h2>
+	<!-- tis is my heading 2,you can have any name for this -->
+	<h3>NEWS PAPER</h3>
+	<h4>NEWS READER</h4>
+	<hr>
+	<h5>NEWS READER</h5>
+	<h6>NEWS READER</h6>
+<!-- .. this is command line .. -->
+
+<!-- paragraph -->
+<p>
+	<b>his is a simple paragraph that is meant to be nice and easy to type </b>,which is why there will be mommas no.</p>
+
+<p>
+	<u>Periods or any capital letters </u>,<i>so i guess this means that it cannot really be considered a paragraph </i>,but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult,<a href="https://www.youtube.com/"target="blank"  >videos is enjoyable</a>.
+<br>
+A paragraph is defined as “a group of sentences or a single sentence 
+that forms a unit” (Lunsford and Connors 116). Length and appearance do 
+not determine whether a section in a paper is a paragraph. 
+<br></p><hr>
+For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence lon.
+<p></p>
+
+<!-- List -->
+<ul>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+
+</ul>
+
+<ol>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+	<li> tamil hacks</li>
+
+</ol>
+
+<!-- tables -->
+
+<table>
+	<head>
+		<tr>
+			<th>name</th>
+			<th>email</th>
+			<th>number</th>
+		</tr>
+
+	</head>
+	<body>
+		<tr>
+			<td>raja</td>
+			<td>raja@gmail.com</td>
+			<td>1234567890</td>
+		</tr>
+		<tr>
+			<td>raj</td>
+			<td>raj@gmail.com</td>
+			<td>12567890</td>
+		</tr>
+		<tr>
+			<td>vimal</td>
+			<td>vimal@gmail.com</td>
+			<td>0987654321</td>
+		</tr>
+	</body>
+</table>
+
+
+</body> 
+</html>
+
+output::
+
+
+NEWS READER
+NEWS READER
+NEWS READER
+NEWS PAPER
+NEWS READER
+NEWS READER
+NEWS READER
+
+his is a simple paragraph that is meant to be nice and easy to type ,which is why there will be mommas no.
+
+Periods or any capital letters ,so i guess this means that it cannot really be considered a paragraph ,but just a series of run on sentences this should help you get faster at typing as im trying not to use too many difficult,videos is enjoyable.
+A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph.
+For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence lon.
+
+  .tamil hacks
+    .tamil hacks
+    .tamil hacks
+    .tamil hacks
+    .tamil hacks
+    .tamil hacks
+
+    1.tamil hacks
+    2.tamil hacks
+    3.tamil hacks
+    4.tamil hacks
+    5.tamil hacks
+    6.tamil hacks
+
+name 	email 	number
+raja 	raja@gmail.com 	1234567890
+raj 	raj@gmail.com 	12567890
+vimal 	vimal@gmail.com 	0987654321
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+      
